@@ -1,7 +1,7 @@
 # DevOps Exercise
 
 Shell program for use in Contently's hiring process.
-
+.
 
 ## Running Locally
 
