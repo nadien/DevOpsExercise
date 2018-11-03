@@ -20,7 +20,7 @@ es = Elasticsearch(hosts=hosts)
 
 @app.route('/ping')
 def ping():
-    return "pong"
+    return "pongs"
 
 
 @app.route('/get-gifs')
