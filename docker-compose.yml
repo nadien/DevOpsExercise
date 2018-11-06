@@ -21,7 +21,7 @@ services:
     links:
       - elasticsearch
     environment:
-      - ELASTICSEARCH_HOST=localhost
+      - ELASTICSEARCH_HOST=172.17.0.1
 
   frontend:
     build: frontend/
