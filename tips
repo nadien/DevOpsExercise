@@ -1,0 +1,3 @@
+install different ubuntu:latest. There were issues with links 
+change ruby to ruby-full in apt install (Dockerfile)
+Make swap (in my case with 512MB)
